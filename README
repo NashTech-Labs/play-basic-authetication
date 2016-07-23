@@ -1,8 +1,10 @@
-Instructions :-
+-----------------------------------------------------------------------
+###Instructions :-
+-----------------------------------------------------------------------
 
-1.Clone the project into local system
-2.To run the Play framework 2.5.x, you need JDK 8 or later
-3.Install Typesafe Activator if you do not have it already. You can get it from here: download
-4.Execute activator clean compile to build the product
-5.Execute activator run to execute the product
-6.playing-reactive-mongo should now be accessible at localhost:9000
+* Clone the project into local system
+* To run the Play framework 2.5.x, you need JDK 8 or later
+* Install Typesafe Activator if you do not have it already. You can get it from here: [download](http://www.playframework.com/download)
+* Execute `activator clean compile` to build the product
+* Execute `activator run` to execute the product
+* playing-reactive-mongo should now be accessible at localhost:9000
